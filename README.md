@@ -2,7 +2,7 @@
 
 \# Exercise-02a-Ship
 
-
+Video link: https://drive.google.com/file/d/1essdWQovenWw98yRHvc34EAwNf5c0gZs/view?usp=sharing 
 
 Exercise for MSCH-C220
 
